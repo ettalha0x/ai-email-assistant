@@ -1,8 +1,8 @@
-# AI Email Saas
+# AI Email Assistant
 
 ## Overview
 
-AI email saas is an AI-powered email assistant for a company that automatically generates contextual responses to client emails based on historical interactions and client data. The system is integrated with any email provider and provide a user-friendly interface for managing email communications.
+AI email assistant is an AI-powered email assistant for a company that automatically generates contextual responses to client emails based on historical interactions and client data. The system is integrated with any email provider and provide a user-friendly interface for managing email communications.
 
 ## Features
 
